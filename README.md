@@ -1,2 +1,4 @@
 # DNS_SPOOFER-FOR-KALI-PYTHON3
-DNS_SPOOFER for Kali Linux 
+Installation: pip3 install -r requirements.txt # Make Sure all packages are installed successfully
+
+Usage: root@kali~# python3 dns_spoofer.py -h # For usage help
